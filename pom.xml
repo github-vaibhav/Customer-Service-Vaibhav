@@ -4,9 +4,9 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.customer</groupId>
-	<artifactId>customer-service_vaibhav</artifactId>
+	<artifactId>customer-service-vaibhav</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>customer-service_vaibhav</name>
+	<name>customer-service-vaibhav</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
